@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 body{
     padding :0;
     margin :0;
@@ -17,15 +18,21 @@ body{
     width:94%;
 }
 .container {
+    color:hsl(218, 44%, 22%);
     text-align: center;
     font-weight: 700;
 }
+
 .card-img-top {
     padding: 10px;
     border-radius :25px ;
 }
 .card-text {
+    color: hsl(220, 15%, 55%);
     text-align: center ;
     font-weight: 200;
     font-size: 15px;
+}
+.text{
+    text-align: center;
 }
