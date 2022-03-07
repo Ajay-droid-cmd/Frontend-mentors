@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/Ajay-droid-cmd/Frontend-mentors/tree/master/Challenge%20%231/qr-code-component-main)
-- Live Site URL: [Will add later](https://your-live-site-url.com)
+- Live Site URL: [QR code](https://qrcode-t71i8yzmm-ajay-droid-cmd.vercel.app/)
 
 
 
