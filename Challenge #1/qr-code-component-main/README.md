@@ -23,17 +23,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Desktop image](./outputsolution/desk%201.png)
 ![Mobile view](./outputsolution/mobile%20.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Ajay-droid-cmd/Frontend-mentors/tree/master/Challenge%20%231/qr-code-component-main)
+- Live Site URL: [Will add later](https://your-live-site-url.com)
 
 
 
@@ -49,28 +44,30 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<br> Use br to break text
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+.card{
+   
+   width: 20rem;
+   border-radius: 25px;
+   background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
 }
 ```
 
 ### Useful resources
 
-- [bootstrap 4 cards](https://getbootstrap.com/docs/4.0/components/card/) - This helped me for crating cards.
+- [css cards](https://www.w3schools.com/howto/howto_css_cards.asp) - This helped me for crating cards.
+- [center a div](https://www.w3schools.com/css/css_align.asp) - Helps to understand how to center a div.
 - [css ](https://www.w3schools.com/w3css/defaulT.asp) - This is an amazing article which helped me in understanding using css to center and changing the background. I'd recommend it to anyone still learning this concept.
 
 
 ## Ajay T
 
-- Portfolio - [Ajay](https://www.your-site.com)
+- Portfolio - [Ajay](https://www.crio.do/portfolio/ajay-t5102001/)
 - Frontend Mentor - [Ajay](https://www.frontendmentor.io/profile/Ajay-droid-cmd)
 - Twitter - [@AjayRT6](https://twitter.com/AjayRT6)
 
