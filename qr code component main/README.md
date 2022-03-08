@@ -44,16 +44,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ```html
 <br> Use br to break text
 ```
-```css
-.card{
-   
-   width: 20rem;
+``body{
+    
+    background-color: rgb(203, 227, 250) ;
+    font-family: 'Outfit';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    margin-top: 100px;
    border-radius: 25px;
    background-color: white;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 100px;
-}
+   padding: 10px;
+   box-shadow:5px 5px 5px 5px rgb(0, 0, 0,0.1);
+}`css
+
 ```
 
 ### Useful resources
